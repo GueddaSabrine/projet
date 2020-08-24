@@ -1,0 +1,23 @@
+* {
+    font-family: "Vollkorn", serif;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.h1{
+
+}
+
+
+.table {
+    border: 0.2rem solid palevioletred;
+}
+.table thead {
+    background-color: #424242;
+    color: white;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    text-align: center;
+}

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@562;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1rem;
+}
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1rem;
+}
+
+.bnj {
+    text-align: center;
+    font-size: 5em;
+}
+
+.navbar {
+    background-color: lightpink;
+}
+
+.navbar-gauche{
+    display: flex;
+    flex-direction: row;
+}
+.navbar-droite {
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-left: 800px;
+}
+
+.accueil{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    border: #dee2e6 solid 1px;
+    margin: 20px 20px 100px 20px;
+
+}
+
+thead {
+    color: darkgray;
+}
+
+form{
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+fieldset{
+    border: solid white 1px;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 200px;
+    padding: 20px 20px 25px 20px;
+    max-width: 600px;
+}
+
+legend {
+    display: block;
+    max-width: 40%;
+    padding-left:.7rem ;
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+    line-height:inherit;
+    color: darkgrey;
+    white-space: normal;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: darkgray;
+    text-shadow: 1px 1px 2px pink;
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    color: darkgray;
+    text-shadow: 1px 1px 2px pink;
+}
+
+a{
+    font-size: 2rem;
+    color: darkgray;
+}
+
+p{
+    font-size: 2rem;
+}
+
+.ligne {
+    text-align: center;
+}

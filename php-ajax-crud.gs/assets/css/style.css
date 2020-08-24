@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.form-control {
+  border: 1px solid #ced4da;
+  border-radius: 0;
+  padding: 0.6rem 0.75rem;
+}
+
+.btn {
+  padding: 0.5rem 0.75rem;
+  border-radius: 0;
+}
+
+.monForm {
+  width: 50%;
+  margin: 2rem auto;
+  border: 1px solid #5a6268;
+}
+.monForm form {
+  margin: 1.5rem;
+}
+
+.titreForm {
+  padding: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  color: white;
+  background-color: #01579b;
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6;
+}
+
+.masquer {
+  display: none;
+}
+
+/*# sourceMappingURL=style.css.map */
